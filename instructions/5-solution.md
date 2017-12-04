@@ -23,7 +23,7 @@ class CompteBancaire:
 
   def afficher(self):
   
-	  print("Votre solde est :", self.solde, "&#x20ac;")
+	  print("Votre solde est :", self.solde, "€")
 ```
 
 ---

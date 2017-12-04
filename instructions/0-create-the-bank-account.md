@@ -32,7 +32,7 @@ compte_de_jean = CompteBancaire("Jean", 1500)
   
 	self.solde = self.solde + somme
 	
-	print("Votre solde est :", self.solde, "&#x20ac;")
+	print("Votre solde est :", self.solde, "€")
 ```
 
 **\> Test du programme**	
@@ -51,7 +51,7 @@ compte_de_pierre.deposer(1500)
   
 	self.solde = self.solde - somme
 	
-	print("Votre solde est :", self.solde, "&#x20ac;")
+	print("Votre solde est :", self.solde, "€")
 ```
 
 **\> Test du programme**	
@@ -67,7 +67,7 @@ compte_de_pierre.retirer(500)
 ```python
   def afficher(self):
   
-	print("Votre solde est :", self.solde, "&#x20ac;")
+	print("Votre solde est :", self.solde, "€")
 ```
 
 **\> Test du programme**	
@@ -98,11 +98,11 @@ class CompteBancaire:
 	self.afficher()
 
   def afficher(self):
-	print("Votre solde est :", self.solde, "&#x20ac;")
+	print("Votre solde est :", self.solde, "€;")
 ```
 
 ---
 
 # La suite
 
-Vous êtes maintenant prêts pour ajouter des fonction de gestion sur le compte en banque ! Rendez-vous à [l'étape suivante](./instructions/1-manage-the-bank-account.md)
+Vous êtes maintenant prêts pour ajouter des fonction de gestion sur le compte en banque ! Rendez-vous à [l'étape suivante](./1-manage-the-bank-account.md)
