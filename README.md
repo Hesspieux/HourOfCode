@@ -6,10 +6,10 @@ Sur le site [replt.it](https://repl.it/repls/GoodnaturedGraveTurtle)
 
 ---
 
-### D&eacute;finition d'un objet **Compte Bancaire**
+### Définition d'un objet **Compte Bancaire**
 
-#### 1) Cr&eacute;er une classe *CompteBancaire* qui poss&egrave;de les propri&eacute;t&eacute;s suivantes :
-- *nom* : le nom du propri&eacute;taire du compte
+#### 1) Créer une classe *CompteBancaire* qui poss&egrave;de les propriétés suivantes :
+- *nom* : le nom du propriétaire du compte
 - *solde* : le solde du compte
 
 ```python
@@ -21,7 +21,7 @@ class CompteBancaire:
     self.solde = solde
 	
 	print("Bienvenue", nom, "chez HourOfCode Bank !")
-	print("Votre solde est :", self.solde, "&#x20ac;")
+	print("Votre solde est :", self.solde, "€")
 ```
 
 **\> Test du programme**	
@@ -34,10 +34,10 @@ compte_de_jean = CompteBancaire("Jean", 1500)
 
 ---
 
-### D&eacute;finition d'un objet **Compte Bancaire**
+### Définition d'un objet **Compte Bancaire**
 
-#### 2) Ajouter une fonction sur la classe *CompteBancaire* pour cr&eacute;diter le compte :
-- Cette fonction accepte un param&egrave;tre : la somme &agrave; d&eacute;poser sur le compte.
+#### 2) Ajouter une fonction sur la classe *CompteBancaire* pour créditer le compte :
+- Cette fonction accepte un param&egrave;tre : la somme à déposer sur le compte.
 
 ```python
   def deposer(self, somme):
@@ -57,10 +57,10 @@ compte_de_pierre.deposer(1500)
 
 ---
 
-### D&eacute;finition d'un objet **Compte Bancaire**
+### Définition d'un objet **Compte Bancaire**
 
-#### 3) Ajouter une fonction sur la classe *CompteBancaire* pour d&eacute;biter le compte :
-- Cette fonction accepte un param&egrave;tre : la somme &agrave; retirer du compte.
+#### 3) Ajouter une fonction sur la classe *CompteBancaire* pour débiter le compte :
+- Cette fonction accepte un param&egrave;tre : la somme à retirer du compte.
 
 ```python
   def retirer(self, somme):
@@ -80,7 +80,7 @@ compte_de_pierre.retirer(500)
 
 ---
 
-### D&eacute;finition d'un objet **Compte Bancaire**
+### Définition d'un objet **Compte Bancaire**
 
 #### 4) Ajouter une fonction sur la classe *CompteBancaire* pour afficher le solde du compte :
 
@@ -100,7 +100,7 @@ compte_de_pierre.afficher(500)
 
 ---
 
-### D&eacute;finition d'un objet **Compte Bancaire**
+### Définition d'un objet **Compte Bancaire**
 
 #### 5) Exemple final
 
@@ -144,11 +144,11 @@ len(comptes_bancaires)
 
 ### Fonctions de gestion de compte bancaire
 
-#### 2) Cr&eacute;ation un nouveau compte bancaire
+#### 2) Création un nouveau compte bancaire
 
 - Cette fonction prend en param&egrave;tre une liste de comptes bancaire
-- On demande &agrave; l'utilisateur un nom et &eacute;ventuellement un premier versement
-- On met &agrave; jour la liste de compte bancaire
+- On demande à l'utilisateur un nom et éventuellement un premier versement
+- On met à jour la liste de compte bancaire
 
 
 ```python
@@ -176,10 +176,10 @@ len(comptes_bancaires)
 
 ### Fonctions de gestion de compte bancaire
 
-#### 3) R&eacute;cup&eacute;ration d'un compte bancaire existant
+#### 3) Récupération d'un compte bancaire existant
 
-- Cette fonction prend en param&egrave; une liste de comptes bancaires et le nom du propri&eacute;taire 
-- Cette fonction demandera &agrave; l'utilisateur un nom et &eacute;ventuellement un premier versement
+- Cette fonction prend en param&egrave; une liste de comptes bancaires et le nom du propriétaire 
+- Cette fonction demandera à l'utilisateur un nom et éventuellement un premier versement
 
 ```python
 def recuperer(comptes_bancaires, nom):
@@ -190,7 +190,7 @@ def recuperer(comptes_bancaires, nom):
 	
       return compte_bancaire
       
-  print("Pas de compte bancaire trouv&eacute; pour", nom)
+  print("Pas de compte bancaire trouvé pour", nom)
 ```
 
 **\> Test du programme**
@@ -210,7 +210,7 @@ L'utilisateur a quatre choix :
 
 	1. Afficher son solde
 	
-	2. D&eacute;poser de l'argent
+	2. Déposer de l'argent
 	
 	3. Retirer de l'argent
 	
@@ -236,12 +236,12 @@ def choisir_option_gestion(compte_bancaire):
       compte_bancaire.afficher()
 	  
     elif choix == 2:
-      somme = input("Montant d&eacute;sir&eacute; :")
+      somme = input("Montant désiré :")
       somme = int(somme)
       compte_bancaire.deposer(somme)
 	  
     elif choix == 3:
-      somme = input("Montant d&eacute;sir&eacute; :")
+      somme = input("Montant désiré :")
       somme = int(somme)
       compte_bancaire.retirer(somme)
 	  
@@ -267,7 +267,7 @@ def gerer(compte_bancaire):
     print("##### Bonjour", compte_bancaire.nom, "#####")
     print("\n")
     print("- [1] Afficher")
-    print("- [2] D&eacute;poser de l'argent")
+    print("- [2] Déposer de l'argent")
     print("- [3] Retirer de l'argent")
     print("- [4] Quitter")
     print("\n")
@@ -292,7 +292,7 @@ L'utilisateur a trois choix :
 
 ### Page d'accueil de l'application
 
-#### 1) Algorithme de choix sur les options au d&eacute;marrage
+#### 1) Algorithme de choix sur les options au démarrage
 
 
 ```python
@@ -408,7 +408,7 @@ def recuperer(comptes_bancaires, nom):
 	
       return compte_bancaire
 	  
-  print("Pas de compte bancaire trouv&eacute; pour", nom)
+  print("Pas de compte bancaire trouvé pour", nom)
   
   demarrer(comptes_bancaires)
 ```
@@ -431,13 +431,13 @@ def choisir_option_gestion(compte_bancaire):
 	  
     elif choix == 2:
 	
-      somme = input("Montant d&eacute;sir&eacute; :")
+      somme = input("Montant désiré :")
       somme = int(somme)
       compte_bancaire.deposer(somme)
 	  
     elif choix == 3:
 	
-      somme = input("Montant d&eacute;sir&eacute; :")
+      somme = input("Montant désiré :")
       somme = int(somme)
       compte_bancaire.retirer(somme)
 	  
@@ -456,7 +456,7 @@ def gerer(compte_bancaire):
     print("\n")
 	
     print("- [1] Afficher")
-    print("- [2] D&eacute;poser de l'argent")
+    print("- [2] Déposer de l'argent")
     print("- [3] Retirer de l'argent")
     print("- [4] Fermer la session")
     print("\n")
