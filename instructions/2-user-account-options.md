@@ -10,8 +10,6 @@ L'utilisateur a quatre choix :
 	3. Retirer de l'argent
 	
 	4. Fermer sa session
-	
----
 
 ## Algorithme de choix
 
@@ -44,8 +42,6 @@ def choisir_option_gestion(compte_bancaire):
 
 ```
 
----
-
 ## Exemple d'affichage
 
 
@@ -67,4 +63,6 @@ def gerer(compte_bancaire):
 	
 ```
 
----
+# La suite
+
+Vous êtes maintenant prêts pour gérer lafficher la page d'accueil de l'application bancaire ! Rendez-vous à [l'étape suivante](./instructions/3-homepage-bank-application.md)

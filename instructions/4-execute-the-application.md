@@ -7,3 +7,7 @@ demarrer(comptes_bancaires)
 ```
 
 ---
+
+# La suite
+
+Vous avez fini ? Bravo ! Vous pouvez désormais comparer avec ma solution : rendez-vous à [ici] !(./instructions/5-solution.md)

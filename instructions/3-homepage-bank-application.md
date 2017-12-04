@@ -7,8 +7,6 @@ L'utilisateur a trois choix :
 	2. S'identifier
 	
 	3. Quitter l'application
-	
----
 
 ## Algorithme de choix sur les options au démarrage
 
@@ -36,8 +34,6 @@ def choisir_option_demarrage()
 		  print("Au revoir !")
 ```
 
----
-
 ## Exemple de page d'accueil
 
 ```python
@@ -55,4 +51,6 @@ def demarrer(comptes_bancaires):
 	choisir_option_demarrage()
 ```
 
----
+# La suite
+
+Vous êtes maintenant prêts pour gérer lafficher la page d'accueil de l'application bancaire ! Rendez-vous à [l'étape suivante](./instructions/4-execute-the-application.md)

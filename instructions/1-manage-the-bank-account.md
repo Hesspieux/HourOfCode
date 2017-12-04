@@ -11,8 +11,6 @@ comptes_bancaires = []
 len(comptes_bancaires)
 ```
 
----
-
 ## Création un nouveau compte bancaire
 
 - Cette fonction prend en param&egrave;tre une liste de comptes bancaire
@@ -41,8 +39,6 @@ creer_compte_bancaire(comptes_bancaires)
 len(comptes_bancaires)
 ```
 
----
-
 ## Récupération d'un compte bancaire existant
 
 - Cette fonction prend en param&egrave; une liste de comptes bancaires et le nom du propriétaire 
@@ -69,4 +65,6 @@ mon_compte_bancaire.nom = nouveau_compte_bancaire.nom
 mon_compte_bancaire.solde = nouveau_compte_bancaire.solde
 ```
 
----
+# La suite
+
+Vous êtes maintenant prêts pour gérer les options de l'utilisateur sur son compte ! Rendez-vous à [l'étape suivante](./instructions/2-user-account-options.md)
