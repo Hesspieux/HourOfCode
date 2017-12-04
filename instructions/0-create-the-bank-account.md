@@ -101,6 +101,8 @@ class CompteBancaire:
 	print("Votre solde est :", self.solde, "&#x20ac;")
 ```
 
+---
+
 # La suite
 
 Vous êtes maintenant prêts pour ajouter des fonction de gestion sur le compte en banque ! Rendez-vous à [l'étape suivante](./instructions/1-manage-the-bank-account.md)

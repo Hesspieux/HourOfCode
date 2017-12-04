@@ -63,6 +63,8 @@ def gerer(compte_bancaire):
 	
 ```
 
+---
+
 # La suite
 
-Vous êtes maintenant prêts pour gérer lafficher la page d'accueil de l'application bancaire ! Rendez-vous à [l'étape suivante](./instructions/3-homepage-bank-application.md)
+Vous êtes maintenant prêts pour gérer lafficher la page d'accueil de l'application bancaire ! Rendez-vous à [l'étape suivante](./3-homepage-bank-application.md)
