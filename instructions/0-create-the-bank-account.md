@@ -1,6 +1,6 @@
-# Définition d'un objet **Compte Bancaire**
+# Création d'une classe **CompteBancaire**
 
-## Création d'une classe *CompteBancaire*
+## Le constructeur
 
 Cette classe poss&egrave;de les propriétés suivantes :
 - *nom* : le nom du propriétaire du compte
