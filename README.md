@@ -5,7 +5,7 @@ Ce workshop est destiné à toute personne désireuse d'apprendre quelques notio
 Le but est d'éveiller votre intérêt le métier de développeur et le code de manière générale.
 Alors non vous ne deviendrez pas des **Software Craftmens** en une heure !
 
-Pourquoi Python ? Parce que c'est un langage rapidement accessible et suffisament répandu pour vous donner un premier aperçu de ce qu'on peut faire avec du... code.
+Pourquoi Python ? Parce que c'est un langage rapidement accessible et suffisament répandu pour vous donner un premier aperçu de ce qu'on peut faire avec... du code.
 
 Il existe plusieurs manières d'exécuter un programme Python.
 Le site : **[replt.it](https://repl.it/repls/GoodnaturedGraveTurtle)** est à mon goût très bien pour commencer.
