@@ -98,7 +98,7 @@ class CompteBancaire:
 		self.afficher()
 
 	def afficher(self):
-		print("Votre solde est :", self.solde, "€;")
+		print("Votre solde est :", self.solde, "€")
 ```
 
 ---
