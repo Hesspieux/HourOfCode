@@ -21,15 +21,15 @@ len(comptes_bancaires)
 ```python
 def creer_compte_bancaire(comptes_bancaires):
 
-  nom = input("Votre nom :")
-  
-  solde = input("Premier versement :")
-  
-  nouveau_compte_bancaire = CompteBancaire(nom, solde)
-  
-  compte_bancaires.append(nouveau_compte_bancaire)
-  
-  return nouveau_compte_bancaire
+	nom = input("Votre nom :")
+
+	solde = input("Premier versement :")
+
+	nouveau_compte_bancaire = CompteBancaire(nom, solde)
+
+	compte_bancaires.append(nouveau_compte_bancaire)
+
+	return nouveau_compte_bancaire
 ```
 
 **\> Test du programme**
@@ -46,14 +46,14 @@ len(comptes_bancaires)
 
 ```python
 def recuperer(comptes_bancaires, nom):
-  
-  for compte_bancaire in comptes_bancaires:
-  
-    if compte_bancaire.nom == nom:
-	
-      return compte_bancaire
-      
-  print("Pas de compte bancaire trouvé pour", nom)
+
+	for compte_bancaire in comptes_bancaires:
+
+		if compte_bancaire.nom == nom:
+
+			return compte_bancaire
+
+	print("Pas de compte bancaire trouvé pour", nom)
 ```
 
 **\> Test du programme**
