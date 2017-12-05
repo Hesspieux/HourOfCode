@@ -1,6 +1,8 @@
 # Définition d'un objet **Compte Bancaire**
 
-## Créer une classe *CompteBancaire* qui poss&egrave;de les propriétés suivantes :
+## Création d'une classe *CompteBancaire*
+
+Cette classe poss&egrave;de les propriétés suivantes :
 - *nom* : le nom du propriétaire du compte
 - *solde* : le solde du compte
 
@@ -24,8 +26,10 @@ compte_de_pierre = CompteBancaire("Pierre")
 compte_de_jean = CompteBancaire("Jean", 1500)
 ```
 
-## Ajouter une fonction sur la classe *CompteBancaire* pour créditer le compte :
-- Cette fonction accepte un param&egrave;tre : la somme à déposer sur le compte.
+## Ajout d'une fonction pour créditer le compte
+
+Cette fonction accepte en paramètre param&egrave;tre :
+- *somme* : la somme à déposer sur le compte.
 
 ```python
 def deposer(self, somme):
@@ -43,8 +47,10 @@ compte_de_pierre = CompteBancaire("Pierre")
 compte_de_pierre.deposer(1500)
 ```
 
-## Ajouter une fonction sur la classe *CompteBancaire* pour débiter le compte :
-- Cette fonction accepte un param&egrave;tre : la somme à retirer du compte.
+## Ajout d'une fonction pour débiter le compte
+
+Cette fonction accepte en param&egrave;tre :
+- *somme* : la somme à retirer du compte.
 
 ```python
 def retirer(self, somme):
@@ -62,7 +68,7 @@ compte_de_pierre = CompteBancaire("Pierre", 1500)
 compte_de_pierre.retirer(500)
 ```
 
-## Ajouter une fonction sur la classe *CompteBancaire* pour afficher le solde du compte :
+## Ajout d'une fonction pour afficher le solde du compte
 
 ```python
 def afficher(self):
@@ -78,7 +84,7 @@ compte_de_pierre = CompteBancaire("Pierre", 1500)
 compte_de_pierre.afficher(500)
 ```
 
-## Exemple final
+## Exemple global
 
 ```python
 class CompteBancaire:

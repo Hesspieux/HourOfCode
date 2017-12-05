@@ -1,4 +1,4 @@
-## Execution de l'application !
+## Éxecution de l'application !
 
 ```python
 comptes_bancaires = []

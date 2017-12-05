@@ -1,6 +1,6 @@
 # Fonctions de gestion de compte bancaire
 
-## Ajout d'une liste de compte bancaire
+## Ajout d'une liste de comptes bancaires
 
 ```python
 comptes_bancaires = []
@@ -11,11 +11,11 @@ comptes_bancaires = []
 len(comptes_bancaires)
 ```
 
-## Création un nouveau compte bancaire
+## Création d'un nouveau compte bancaire
 
 - Cette fonction prend en param&egrave;tre une liste de comptes bancaire
 - On demande à l'utilisateur un nom et éventuellement un premier versement
-- On met à jour la liste de compte bancaire
+- On met à jour la liste de comptes bancaires
 
 
 ```python
