@@ -1,4 +1,4 @@
-# Une application bancaire en Python
+# Une heure pour réaliser une application bancaire en Python
 
 ## Contexte
 
@@ -15,7 +15,7 @@ Alors non vous ne deviendrez pas des **Software Craftmens** en une heure !
 
 ## Et Python ?
 
-Pourquoi avoir chois le lanage Python ? Parce que c'est un langage rapidement accessible et suffisament répandu pour vous donner un premier aperçu de ce qu'on peut faire avec... du code.
+Pourquoi avoir choisi le langage Python ? Parce que c'est un langage rapidement accessible et suffisament répandu pour vous donner un premier aperçu de ce qu'on peut faire avec... du code.
 
 Il existe plusieurs manières d'exécuter un programme Python.
 Le site : **[replt.it](https://repl.it/repls/GoodnaturedGraveTurtle)** est à mon goût très bien pour commencer.
