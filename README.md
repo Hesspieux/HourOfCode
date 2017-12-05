@@ -46,4 +46,4 @@ De même il faudra parfois réadapter le code en fonction de ce que vous souhait
 * [Step 2 : Gestion du compte bancaire par l'utilisateur](./instructions/2-user-account-options.md)
 * [Step 3 : Page d'accueil de l'application](./instructions/3-homepage-bank-application.md)
 * [Step 4 : Execution de l'application !](./instructions/4-execute-the-application.md)
-* [Step 5 : Une solution](./instructions/5-solution.md)
+* [Step 5 : Proposition d'implémentation](./instructions/5-solution.md)

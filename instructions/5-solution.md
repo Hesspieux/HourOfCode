@@ -1,4 +1,4 @@
-# Une solution
+# Une implémentation de l'application bancaire
 
 ```python
 class CompteBancaire:
