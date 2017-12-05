@@ -1,8 +1,20 @@
 # Une application bancaire
 
-Sur le site [replt.it](https://repl.it/repls/GoodnaturedGraveTurtle)
+Je vous propose de développer une mini application bancaire en une heure de code et en python !
+
+Ce workshop est destiné à toute personne désireuse d'apprendre quelques notions de programmtion.
+
+Le but est bien sûr d'éveiller votre intérêt sur le code et le métier de développeur, de manière générale.
+
+Pourquoi Python ? Parce que c'est un langage rapidement accessible et suffisament répandu pour vous donner un premier aperçu de ce qu'on peut faire avec du... code.
+
+Il existe plusieurs manière d'exécuter du code Python. Ce site : [replt.it](https://repl.it/repls/GoodnaturedGraveTurtle) est à mon goût très bien pour commencer.
+
+N'hésitez pas à naviguez à travers le Wiki dans lequel vous trouverez des notions mieux expliquées que dans le workshop suivant.
 
 ---
+
+## Workshop
 
 ### Steps
 

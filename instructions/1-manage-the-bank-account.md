@@ -69,4 +69,4 @@ mon_compte_bancaire.solde = nouveau_compte_bancaire.solde
 
 # La suite
 
-Vous êtes maintenant prêts pour gérer les options de l'utilisateur sur son compte ! Rendez-vous à [l'étape suivante](./2-user-account-options.md)
+Vous êtes maintenant prêts pour gérer les options de l'utilisateur sur son compte ! Rendez-vous à [l'étape suivante](./2-user-account-options.md).

@@ -55,4 +55,4 @@ def demarrer(comptes_bancaires):
 
 # La suite
 
-Vous êtes maintenant prêts pour gérer lafficher la page d'accueil de l'application bancaire ! Rendez-vous à [l'étape suivante](./4-execute-the-application.md)
+Vous êtes maintenant prêts pour gérer lafficher la page d'accueil de l'application bancaire ! Rendez-vous à [l'étape suivante](./4-execute-the-application.md).
