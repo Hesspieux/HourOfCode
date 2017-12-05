@@ -2,7 +2,8 @@
 
 Je vous propose de développer une mini application bancaire en **une heure de code** seulement et en python !
 Ce workshop est destiné à toute personne désireuse d'apprendre quelques notions de programmation.
-Le but est bien sûr d'éveiller votre intérêt sur le code et le métier de développeur, de manière générale.
+Le but est d'éveiller votre intérêt le métier de développeur et le code de manière générale.
+Alors non vous ne deviendrez pas des Software Craftmens en une heure !
 
 Pourquoi Python ? Parce que c'est un langage rapidement accessible et suffisament répandu pour vous donner un premier aperçu de ce qu'on peut faire avec du... code.
 
@@ -19,6 +20,11 @@ Vous avez aussi de nombreux tutoriels et documentations accessibles en lige grat
 ---
 
 ## Workshop
+
+Durant ce workshop vous apprendrez à :
+- Réaliser des blocs en `if`, `while`, `for`
+- Manipuler des objets et des fonctions
+- Gérer le retour des fonctions
 
 >Pour éviter tout vulgaire copié/collé, des erreurs se sont glissées volontairement (ou non...) dans le code.
 De même il faudra parfois réadapter le code en fonction de ce que vous souhaitez faire.
