@@ -20,6 +20,10 @@ Vous avez aussi de nombreux tutoriels et documentations accessibles en lige grat
 
 ## Workshop
 
+>>> Pour éviter tout vulgaire copié/collé, des erreurs se sont glissées volontairement (ou non...) dans le code.
+De même il faudra parfois réadapter le code en fonction de ce que vous souhaitez faire.
+>>>
+
 ### Steps
 
 * [Step 0 : Définition d'un objet Compte Bancaire](./instructions/0-create-the-bank-account.md)
