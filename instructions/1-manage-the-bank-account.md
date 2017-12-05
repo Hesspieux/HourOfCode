@@ -41,7 +41,7 @@ len(comptes_bancaires)
 
 ## Récupération d'un compte bancaire existant
 
-- Cette fonction prend en param&egrave; une liste de comptes bancaires et le nom du propriétaire 
+- Cette fonction prend en param&egrave;tre une liste de comptes bancaires et le nom du propriétaire 
 - Cette fonction demandera à l'utilisateur un nom et éventuellement un premier versement
 
 ```python

@@ -28,7 +28,7 @@ compte_de_jean = CompteBancaire("Jean", 1500)
 
 ## Ajout d'une fonction pour créditer le compte
 
-Cette fonction accepte en paramètre param&egrave;tre :
+Cette fonction accepte en paramètre :
 - *somme* : la somme à déposer sur le compte.
 
 ```python

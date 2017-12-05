@@ -18,10 +18,10 @@ Alors non vous ne deviendrez pas des **Software Craftmens** en une heure !
 Pourquoi avoir choisi le langage Python ? Parce que c'est un langage rapidement accessible et suffisament répandu pour vous donner un premier aperçu de ce qu'on peut faire avec... du code.
 
 Il existe plusieurs manières d'exécuter un programme Python.
-Le site : **[replt.it](https://repl.it/repls/GoodnaturedGraveTurtle)** est à mon goût très bien pour commencer.
+Le site : **[replt.it](https://repl.it/)** est à mon goût très bien pour commencer.
 
 N'hésitez pas à naviguer à travers le [Wiki](https://github.com/Hesspieux/HourOfCode/wiki) dans lequel vous trouverez des notions plus détaillées par rapport au contenu du workshop suivant.
-Vous avez aussi de nombreux tutoriels et documentations accessibles en lige gratuitement :
+Vous avez aussi de nombreux tutoriels et documentations accessibles en ligne gratuitement :
 - https://www.python.org/
 - https://openclassrooms.com/courses/apprenez-a-programmer-en-python
 - https://www.codecademy.com/fr/tracks/python
