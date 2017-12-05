@@ -10,7 +10,7 @@
 Je vous propose de développer une mini application bancaire en **une heure de code** seulement et en python !
 Ce workshop est destiné à toute personne désireuse d'apprendre quelques notions de programmation.
 Le but est d'éveiller votre intérêt le métier de développeur et le code de manière générale.
-Alors non vous ne deviendrez pas des **Software Craftmens** en une heure !
+Alors non vous ne deviendrez pas des **Software Craftmen** en une heure !
 
 
 ## Et Python ?
