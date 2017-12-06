@@ -12,9 +12,8 @@ class CompteBancaire:
 	def __init__(self, nom, solde = 0):
   
 		self.nom = nom
-		self.solde = solde
-	
-		print("Bienvenue", nom, "chez HourOfCode Bank !")
+
+		print("Bienvenue", self.nom, "chez HourOfCode Bank !")
 		print("Votre solde est :", self.solde, "€")
 ```
 
@@ -36,7 +35,7 @@ def deposer(self, somme):
   
 	self.solde = self.solde + somme
 
-	print("Votre solde est :", self.solde, "€")
+	print("Votre solde est :", solde, "€")
 ```
 
 **\> Test du programme**
